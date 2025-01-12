@@ -1,2 +1,1 @@
-
-REsolved merge conflicts
+Resolved merge conflicts
