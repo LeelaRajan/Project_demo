@@ -1,1 +1,1 @@
-I have  modified the file
+Resolved merge conflicts
